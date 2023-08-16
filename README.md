@@ -1,4 +1,4 @@
-#Hi
+Hi
 
 ## Im a student at the FWSC Career Academy, I am apart of Mr.Mckinstry's AM Software development class
 
